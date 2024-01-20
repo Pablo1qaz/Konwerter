@@ -1,0 +1,3 @@
+C:/Users/pawel/OneDrive/Pulpit/Projekt JPO/KonwerterMFC/build_win/CMakeFiles/Project.dir
+C:/Users/pawel/OneDrive/Pulpit/Projekt JPO/KonwerterMFC/build_win/CMakeFiles/ALL_BUILD.dir
+C:/Users/pawel/OneDrive/Pulpit/Projekt JPO/KonwerterMFC/build_win/CMakeFiles/ZERO_CHECK.dir

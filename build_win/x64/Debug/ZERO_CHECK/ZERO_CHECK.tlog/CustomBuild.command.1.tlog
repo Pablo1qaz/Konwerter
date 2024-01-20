@@ -1,0 +1,10 @@
+^C:\USERS\PAWEL\ONEDRIVE\PULPIT\PROJEKT JPO\KONWERTERMFC\BUILD_WIN\CMAKEFILES\D4EA0BF8D7DE4BE2A52D1F3D811D9CEA\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/pawel/OneDrive/Pulpit/Projekt JPO/KonwerterMFC" "-BC:/Users/pawel/OneDrive/Pulpit/Projekt JPO/KonwerterMFC/build_win" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/pawel/OneDrive/Pulpit/Projekt JPO/KonwerterMFC/build_win/Project.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
